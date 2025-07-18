@@ -2,7 +2,7 @@
 
 ## Pediatric Computational Neuroscience Research 👶🧬
 
-Welcome to the Bernardo Lab (BLab) GitHub repository. Our lab focuses on computational neuroscience, employing computational modeling, neural simulations, and data-driven approaches to understand pediatric brain dynamics, neural encoding, and cognitive functions.
+Welcome to the Bernardo Lab (BLab) GitHub repository. Our lab focuses on computational neuroscience and AI-driven approaches to understand pediatric brain dynamics, neural encoding, and epilepsy.
 
 ### Research Interests 🔬
 
@@ -11,6 +11,7 @@ Welcome to the Bernardo Lab (BLab) GitHub repository. Our lab focuses on computa
 * 🗣️ Language decoding
 
 ### Recent Papers 📝
+* [Short-horizon neonatal seizure prediction using EEG-based deep learning](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000890)
 * [Machine learning for forecasting initial seizure onset in neonatal hypoxic–ischemic encephalopathy](https://onlinelibrary.wiley.com/doi/full/10.1111/epi.18163)
 * [Simulation-based inference of developmental EEG maturation with the spectral graph model](https://www.nature.com/articles/s42005-024-01748-w)
 * [Limitations of Large Language Models in Clinical Problem-Solving Arising from Inflexible Reasoning](https://arxiv.org/abs/2502.04381)
