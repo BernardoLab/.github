@@ -1,4 +1,4 @@
-# Bernardo Lab (BLab) 
+# Bernardo Lab
 
 ## Pediatric Computational Neuroscience Research 👶🧠
 
